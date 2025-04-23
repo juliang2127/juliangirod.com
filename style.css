@@ -1,0 +1,15 @@
+/* reset & base */
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:sans-serif; line-height:1.6; color:#333; }
+
+/* header */
+header { background:#f5f5f5; text-align:center; padding:2rem; }
+header h1 { margin-bottom:0.5rem; }
+header nav a { margin:0 1rem; text-decoration:none; color:#007acc; }
+
+/* main content */
+main { max-width:800px; margin:2rem auto; padding:0 1rem; }
+section { margin-bottom:2rem; }
+
+/* footer */
+footer { text-align:center; padding:1rem 0; font-size:0.9rem; color:#666; }
